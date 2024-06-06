@@ -14,11 +14,11 @@ This is Chongxin College MIT EECS6.01 course code, our **team members**:
 
 ## Demo  Find Light
 
-![find_light](https://github.com/neverwinHao/EECS/tree/main/Demo/find_light.gif)
+![find_light](https://github.com/neverwinHao/EECS/blob/main/Demo/find_light.gif)
 
 ## Demo Head Turn Light
 
-![Head](https://github.com/neverwinHao/EECS/tree/main/Demo/head Turn toward the light.gif.gif)
+![Head](https://github.com/neverwinHao/EECS/blob/main/Demo/head%20Turn%20toward%20the%20light.gif)
 
 ## Report
 
