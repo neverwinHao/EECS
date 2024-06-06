@@ -22,4 +22,4 @@ This is Chongxin College MIT EECS6.01 course code, our **team members**:
 
 ## Report
 
-You can refer to [Report](https://github.com/neverwinHao/EECS/tree/main/Report) for drivers of sensors and modules. All the source code is developped by keil.
+You can refer to [Report](https://github.com/neverwinHao/EECS/tree/main/Report) for details.
