@@ -10,7 +10,7 @@ This is Chongxin College MIT EECS6.01 course code, our **team members**:
 
 ## Demo Maze With Big Noise
 
-![maze](https://github.com/neverwinHao/EECS/tree/main/Demo/maze.gif)
+![maze](https://github.com/neverwinHao/EECS/blob/main/Demo/maze.gif)
 
 ## Demo  Find Light
 
