@@ -8,15 +8,15 @@ This is Chongxin College MIT EECS6.01 course code, our **team members**:
 - YuanZhang@[vegetabledogzy](https://github.com/vegetabledogzy)
 - YiChi@[cc-ccy](https://github.com/cc-ccy)
 
-## Demo Maze With Big Noise
+## Demo: Maze With Big Noise
 
 ![maze](https://github.com/neverwinHao/EECS/blob/main/Demo/maze.gif)
 
-## Demo  Find Light
+## Demo:  Find Light
 
 ![find_light](https://github.com/neverwinHao/EECS/blob/main/Demo/find_light.gif)
 
-## Demo Head Turn Light
+## Demo: Turn Head To Light
 
 ![Head](https://github.com/neverwinHao/EECS/blob/main/Demo/head%20Turn%20toward%20the%20light.gif)
 
