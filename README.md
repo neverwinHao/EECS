@@ -4,7 +4,7 @@
 This is Chongxin College MIT EECS6.01 course code, our **team members**:
 
 - HaoLiu@[neverwinHao](https://github.com/neverwinHao)
-- Zhengshi@[bsgbsg7](https://github.com/neverwinHao)
+- ZhengShi@[bsgbsg7](https://github.com/neverwinHao)
 - YuanZhang@[vegetabledogzy](https://github.com/vegetabledogzy)
 - YiChi@[cc-ccy](https://github.com/cc-ccy)
 
